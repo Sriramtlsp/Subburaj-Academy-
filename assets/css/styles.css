@@ -49,3 +49,8 @@ body { font-family: 'Inter', sans-serif; }
   flex-grow: 1;
   margin-bottom: 15px;
 }
+/* Instructor Image Hover */
+img:hover {
+  transform: scale(1.03);
+  transition: 0.3s ease;
+}
